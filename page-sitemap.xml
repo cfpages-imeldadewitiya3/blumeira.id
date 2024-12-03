@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-29T04:46:36+00:00</lastmod>
+		<lastmod>2024-11-30T10:53:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/logo_blumeira_bg_transparan.webp</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Flower-Box.png</image:loc>
 		</image:image>
@@ -80,16 +83,182 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/jual/bloom-box-balloon</loc>
+		<lastmod>2024-12-03T15:14:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bloom-Box-Balloon-min.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Welcome-Baby-Girl-Bloom-Box-Balloon.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Welcome-Baby-Boy-Hatbox-Bloom-Box-Balloon.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bloom-Box-Balloon-Sidoarjo-Surabaya-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bloom-Box-Balloon-Sidoarjo-Surabaya-11.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bloom-Box-Balloon-Sidoarjo-Surabaya-3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bloom-Box-Balloon-Sidoarjo-Surabaya-4.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Welcome-Baby-Boy-Hatbox-Bloom-Box-Balloon.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Welcome-Baby-Girl-Bloom-Box-Balloon.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/jual/bouquet</loc>
+		<lastmod>2024-12-03T15:13:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Bouquet-min.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/bouquet-bunga-sidoarjo-surabaya-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/bouquet-bunga-sidoarjo-surabaya-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Pink-Elegance-Romance-Bouquet.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Purity-and-Sunshine-Bouquet.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Blooming-Hope-Bouquet.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Pink-Elegance-Romance-Bouquet.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Purity-and-Sunshine-Bouquet.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Blooming-Hope-Bouquet.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/jual/flower-box</loc>
+		<lastmod>2024-12-03T15:13:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Flower-Box.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-dylan-daisy-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-chris-sasa-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-our-wedding-sheila-bobby-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-to-our-wedding-kelly-jason-wave-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-to-our-wedding-kayson-amanda-wave-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-happy-graduation-simple-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-happy-graduation-karina-pertiwi-S.Sos-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-congratulation-fitria-melati-S.M-curved-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-congratulation-devi-oktasari-motif-frame-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-cermin-custom-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-of-grace-daniel-frame-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-naoto-erina-simple-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-congratulation-devi-oktasari-motif-frame-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-congratulation-fitria-melati-S.M-curved-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-lynh-teddy-simple-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-to-our-wedding-kayson-amanda-wave-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-congratulations-mutiara-rahmah-S.Psi-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-dylan-daisy-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-of-grace-daniel-frame-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-happy-graduation-karina-pertiwi-S.Sos-rectangle-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-cermin-custom-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-happy-graduation-simple-sidoarjo-surabaya.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/jual/flower-vase</loc>
+		<lastmod>2024-12-03T15:13:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Flower-Vase-min.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-flower-vase-di-sidoarjo-surabaya-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-flower-vase-di-sidoarjo-surabaya-6.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-flower-vase-di-sidoarjo-surabaya-5.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/jual-flower-vase-di-sidoarjo-surabaya-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Flower-Vase-Enchanted-Garden-Box-of-Love.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Flower-Vase-Blushing-Beauty.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Flower-Vase-Sunset-Romance-Box-of-Blooms.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/ac_assets/uc_article_grid_style_six//no-image.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/faq</loc>
+		<lastmod>2024-12-03T13:54:11+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/kontak-kami</loc>
-		<lastmod>2024-11-29T04:37:22+00:00</lastmod>
+		<lastmod>2024-11-29T09:41:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pengiriman-seluruh-indonesia</loc>
 		<lastmod>2024-11-26T10:28:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/faq</loc>
-		<lastmod>2024-11-26T06:56:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pengiriman</loc>
@@ -180,26 +349,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/jual-sewa-flower-box-welcome-to-the-wedding-dylan-daisy-rectangle-sidoarjo-surabaya.jpeg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/checkout</loc>
-		<lastmod>2024-11-18T14:17:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/my-account</loc>
-		<lastmod>2024-11-18T14:17:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cart</loc>
-		<lastmod>2024-11-18T14:17:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shop</loc>
-		<lastmod>2024-11-18T14:17:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/testimonials</loc>
-		<lastmod>2024-11-18T14:17:12+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
