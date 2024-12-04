@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo_blumeira_bg_biru_lusmo-100x100.webp</url>
@@ -92,7 +92,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Sentuhan Keindahan</strong>: Flower vase yang diisi dengan bunga segar atau artificial akan menjadi simbol cinta dan perhatian Anda.</li>
 
 
@@ -113,7 +113,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Ulang Tahun</strong>: Nikmati harga spesial untuk setiap pembelian flower vase selama bulan ulang tahun orang tersayang Anda.</li>
 
 
@@ -192,7 +192,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Menonjolkan Tema Dekorasi</strong>: Vas bunga akan menambahkan keselarasan pada tema dekorasi Anda, baik itu rustic, modern, klasik, atau garden party.</li>
 
 
@@ -213,7 +213,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Khusus Wedding</strong>: Dapatkan penawaran menarik untuk setiap pembelian vas bunga dalam jumlah tertentu.</li>
 
 
@@ -292,7 +292,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Meja Penyambutan</strong>: Sambut tamu Anda dengan dekorasi flower vase yang indah untuk memberikan kesan pertama yang positif.</li>
 
 
@@ -317,7 +317,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Eksklusif</strong>: Dapatkan harga spesial untuk pembelian vas bunga dalam jumlah tertentu.</li>
 
 
@@ -372,7 +372,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Elegan</strong><br>Dengan beragam desain, mulai dari klasik hingga modern, <strong>flower vase</strong> kami dapat disesuaikan dengan tema acara Anda.</li>
 
 
@@ -397,7 +397,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Dekorasi Panggung</strong><br>Memberikan sentuhan elegan pada panggung utama.</li>
 
 
@@ -419,7 +419,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Vas berbahan kaca, keramik, atau rotan</strong> dengan desain klasik hingga modern.</li>
 
 
@@ -441,7 +441,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Muhammadiyah Sidoarjo (UMSIDA)</li>
 
 
@@ -537,7 +537,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Memberikan Kejutan yang Spektakuler</strong><br>Apa yang lebih seru daripada melihat wajah orang yang Anda sayangi terkejut dan bahagia saat membuka hadiah? Bloom Box Balloon memberikan pengalaman kejutan yang tak tertandingi. Begitu kotak dibuka, balon-balonnya langsung terbang ke udara, menciptakan momen yang penuh energi positif. Ini adalah hadiah yang mencuri perhatian, membuat acara ulang tahun semakin berkesan. Dapatkan Bloom Box Balloon di Sidoarjo dan lihatlah bagaimana kejutan ini menciptakan tawa dan kegembiraan!</li>
 
 
@@ -573,7 +573,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Ulang Tahun Anak</strong><br>Anak-anak pasti akan terpesona dengan balon yang terbang keluar dari Bloom Box. Bayangkan betapa bahagianya mereka saat melihat balon berwarna cerah melayang di udara, sementara bunga-bunga segar memberikan sentuhan keindahan. Ini adalah cara yang sempurna untuk membuat ulang tahun anak Anda di Sidoarjo menjadi pesta kejutan yang tak terlupakan! Berikan hadiah terbaik di ulang tahun anak-anak Anda dengan Bloom Box Balloon di Sidoarjo.</li>
 
 
@@ -655,7 +655,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Menciptakan Kesan Tak Terlupakan</strong><br>Pernahkah Anda menerima hadiah yang begitu mengejutkan dan mempesona hingga Anda tak bisa melupakannya? <strong>Bloom Box Balloon</strong> adalah hadiah yang bisa menciptakan kesan itu. Begitu kotak dibuka, balon-balonnya akan terbang keluar, memberi kejutan yang memanjakan mata dan hati. Tidak ada cara yang lebih <strong>menakjubkan</strong> untuk memberi penghormatan kepada para tamu dan mitra Anda pada hari besar tersebut.</li>
 
 
@@ -691,7 +691,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Grand Opening Restoran atau Kafe</strong><br>Restoran dan kafe baru di Sidoarjo membutuhkan hadiah yang tidak hanya cantik, tetapi juga <strong>menciptakan atmosfer yang hangat dan menyambut</strong>. Memberikan Bloom Box Balloon sebagai hadiah kepada pelanggan pertama atau tamu VIP Anda akan memberikan kesan <strong>mewah dan penuh perhatian</strong>. Tamu Anda akan merasa dihargai, dan ini akan memperkuat <strong>hubungan positif</strong> dengan brand Anda.</li>
 
 
@@ -773,7 +773,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Tampilan yang Menarik dan Elegan</strong><br>Bloom Box Balloon tidak hanya sekadar hadiah, tetapi juga merupakan karya seni yang menarik. Dengan kombinasi bunga segar yang cantik dan balon yang berwarna-warni, Bloom Box menawarkan kesan mewah dan elegan yang membuat penerima merasa sangat dihargai. Tentu, ini adalah pilihan yang sempurna untuk mengungkapkan rasa bangga terhadap pencapaian wisudawan atau wisudawati.</li>
 
 
@@ -821,7 +821,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Vas Modern atau Klasik</strong> dengan bahan kaca, keramik, atau rotan.</li>
 
 
@@ -847,7 +847,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Muhammadiyah Sidoarjo (UMSIDA)</li>
 
 
@@ -928,7 +928,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Mawar Elegan</strong><br>Tunjukkan cinta yang tulus dengan bouquet mawar merah yang anggun. Pilihan ini cocok untuk pasangan atau seseorang yang Anda cintai.</li>
 
 
@@ -949,7 +949,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Bunga Segar Berkualitas:</strong> Kami menggunakan bunga terbaik yang dipetik langsung dari kebun lokal.</li>
 
 
@@ -1024,7 +1024,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Keindahan Alami</strong>: Warna dan tekstur bunga segar mencerminkan cinta yang murni dan hidup.</li>
 
 
@@ -1056,7 +1056,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Tidak akan layu, bouquet ini adalah simbol cinta yang abadi.</li>
 
 
@@ -1074,7 +1074,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Florist Profesional Berpengalaman</strong>: Setiap bouquet adalah karya seni yang diciptakan dengan penuh cinta dan ketelitian.</li>
 
 
@@ -1144,7 +1144,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Pesona Segar</strong>: Warna dan aroma bunga segar kami membawa energi yang hidup, menciptakan suasana romantis yang tak terlupakan.</li>
 
 
@@ -1165,7 +1165,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Bouquet ini tidak akan layu, seperti cinta Anda yang tak pernah pudar.</li>
 
 
@@ -1193,7 +1193,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Florist Profesional dengan Sentuhan Seni</strong>: Setiap rangkaian bouquet adalah karya seni yang dikerjakan dengan hati.</li>
 
 
@@ -1264,7 +1264,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Desain eksklusif sesuai tema acara Anda.</li>
 
 
@@ -1290,7 +1290,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Tahan lama tanpa perawatan khusus.</li>
 
 
@@ -1398,7 +1398,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif:</strong> Setiap rangkaian bunga dibuat sesuai tema graduation dengan tambahan elemen khusus seperti pita, kartu ucapan, atau topper bertuliskan <em>“Congratulations”</em>.</li>
 
 
@@ -1506,7 +1506,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Wisuda Universitas</strong>: Bouquet kami disesuaikan dengan tema atau warna khas universitas Anda.</li>
 
 
@@ -1532,7 +1532,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Muhammadiyah Sidoarjo (UMSIDA)</li>
 
 
@@ -1716,7 +1716,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Desain yang Elegan dan Modern – Dengan berbagai desain yang dapat disesuaikan dengan tema ulang tahun Anda, flower box kami tampilkan dengan estetika yang memikat dan memudahkan dekorasi.</li>
 
 
@@ -1810,7 +1810,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Menawan</strong>: Dapat disesuaikan dengan tema acara, baik menggunakan bunga segar yang alami atau bunga palsu (artificial) yang tetap terlihat menawan.</li>
 
 
@@ -2008,7 +2008,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bunga Artificial Premium:</strong> Tampak seperti bunga asli, tetapi lebih tahan lama dan bebas perawatan.</li>
 
 
@@ -2038,7 +2038,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Sewa Flower Box Wisuda:</strong> Mulai dari Rp150.000.</li>
 
 
@@ -2056,7 +2056,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Muhammadiyah Sidoarjo (UMSIDA)</strong></li>
 
 
@@ -2130,7 +2130,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Dibuat dari bunga artificial berkualitas tinggi yang tetap cantik sepanjang waktu, tanpa memerlukan perawatan khusus.</li>
 
 
@@ -2163,7 +2163,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Sewa</strong>: Mulai dari Rp150.000 hingga Rp500.000, tergantung desain dan ukuran.</li>
 
 
@@ -2185,7 +2185,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Muhammadiyah Sidoarjo (UMSIDA)</strong></li>
 
 

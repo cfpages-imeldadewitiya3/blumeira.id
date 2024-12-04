@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo_blumeira_bg_biru_lusmo-100x100.webp</url>
@@ -74,7 +74,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Mawar Merah Anggun</strong><br>Mawar merah adalah simbol cinta sejati. Bouquet mawar merah ini sangat cocok untuk pasangan atau orang yang memiliki tempat spesial di hati Anda. Desainnya yang elegan dan klasik membuat setiap hadiah terasa lebih romantis.</li>
 
 
@@ -99,7 +99,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Bunga Segar dan Berkualitas:</strong> Kami hanya menggunakan bunga segar pilihan dari sumber terbaik, sehingga bouquet bunga kami tidak hanya cantik tetapi juga tahan lama.</li>
 
 
@@ -192,7 +192,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Mawar Elegan</strong><br>Tunjukkan cinta yang tulus dengan bouquet mawar merah yang anggun. Pilihan ini cocok untuk pasangan atau seseorang yang Anda cintai.</li>
 
 
@@ -213,7 +213,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Bunga Segar Berkualitas:</strong> Kami menggunakan bunga terbaik yang dipetik langsung dari kebun lokal.</li>
 
 
@@ -288,7 +288,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Keindahan Alami</strong>: Warna dan tekstur bunga segar mencerminkan cinta yang murni dan hidup.</li>
 
 
@@ -320,7 +320,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Tidak akan layu, bouquet ini adalah simbol cinta yang abadi.</li>
 
 
@@ -338,7 +338,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Florist Profesional Berpengalaman</strong>: Setiap bouquet adalah karya seni yang diciptakan dengan penuh cinta dan ketelitian.</li>
 
 
@@ -408,7 +408,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Pesona Segar</strong>: Warna dan aroma bunga segar kami membawa energi yang hidup, menciptakan suasana romantis yang tak terlupakan.</li>
 
 
@@ -429,7 +429,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Bouquet ini tidak akan layu, seperti cinta Anda yang tak pernah pudar.</li>
 
 
@@ -457,7 +457,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Florist Profesional dengan Sentuhan Seni</strong>: Setiap rangkaian bouquet adalah karya seni yang dikerjakan dengan hati.</li>
 
 
@@ -540,7 +540,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Fresh Flower</strong>: Kami hanya menggunakan bunga segar berkualitas premium yang memancarkan warna alami dan aroma menyegarkan. Cocok untuk memberikan sentuhan romantis di momen spesial Anda.</li>
 
 
@@ -585,7 +585,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Desain Personal</strong>: Kami menciptakan bouquet yang unik untuk Anda, tidak ada yang seragam.</li>
 
 
@@ -660,7 +660,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Fresh Flower</strong>: Kami hanya menggunakan bunga segar terbaik yang dipetik langsung dari kebun terpilih. Aroma alami dan warna-warna cerahnya akan memberikan kesan mewah dan elegan di hari spesial Anda.</li>
 
 
@@ -756,7 +756,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Keindahan yang Memikat</strong><br>Bouquet fresh flower kami dirancang dengan bunga-bunga terbaik yang dipilih langsung dari petani lokal maupun internasional, menjamin kualitas dan keindahan yang tak tertandingi. Sedangkan bunga artifisial kami, yang tak kalah indah, bisa bertahan lebih lama dan tetap memukau sepanjang acara, tanpa perlu khawatir akan layu.</li>
 
 
@@ -864,7 +864,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Desain eksklusif sesuai tema acara Anda.</li>
 
 
@@ -890,7 +890,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Tahan lama tanpa perawatan khusus.</li>
 
 
@@ -998,7 +998,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif:</strong> Setiap rangkaian bunga dibuat sesuai tema graduation dengan tambahan elemen khusus seperti pita, kartu ucapan, atau topper bertuliskan <em>“Congratulations”</em>.</li>
 
 
@@ -1106,7 +1106,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Wisuda Universitas</strong>: Bouquet kami disesuaikan dengan tema atau warna khas universitas Anda.</li>
 
 
@@ -1132,7 +1132,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Muhammadiyah Sidoarjo (UMSIDA)</li>
 
 
@@ -1214,9 +1214,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Fresh Flower</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Dibuat dari bunga segar berkualitas tinggi, seperti mawar, lili, dan baby breath, yang dirangkai dengan penuh cinta dan kreativitas.</li>
 
 
@@ -1232,7 +1232,7 @@
 
 
 <li><strong>Bouquet Artificial Flower</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Solusi elegan yang tahan lama, terbuat dari bahan premium dengan tampilan seperti bunga asli.</li>
 
 
@@ -1252,7 +1252,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Custom Design</strong>: Sesuaikan bouquet sesuai keinginan Anda, mulai dari warna, jenis bunga, hingga tambahan elemen dekorasi seperti boneka atau kartu ucapan.</li>
 
 
@@ -1355,7 +1355,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Elegan dan Berarti</strong>: Mencerminkan rasa bangga atas pencapaian penerima.</li>
 
 
@@ -1381,7 +1381,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Airlangga (UNAIR)</li>
 
 

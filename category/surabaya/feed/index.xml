@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo_blumeira_bg_biru_lusmo-100x100.webp</url>
@@ -73,7 +73,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Kreatif dan Personalisasi</strong> Blumeira.id menawarkan berbagai desain flower vase yang dapat disesuaikan dengan selera penerima dan tema acara ulang tahun. Apakah Anda menginginkan desain yang elegan, ceria, atau klasik, kami dapat membuatkan flower vase yang sempurna. Anda juga dapat menambahkan pesan spesial atau nama penerima untuk menjadikan hadiah Anda lebih personal dan berkesan.</li>
 
 
@@ -103,7 +103,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Dekorasi Pesta Ulang Tahun</strong>: Tempatkan flower vase yang cantik di meja tamu atau meja kue ulang tahun untuk menambah kesan elegan dan meriah pada acara. Vas bunga yang indah ini akan mempercantik setiap sudut acara, menciptakan atmosfer yang menyenangkan bagi tamu yang hadir.</li>
 
 
@@ -170,7 +170,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif dan Personalisasi</strong> Blumeira.id menawarkan berbagai pilihan desain flower vase yang dapat disesuaikan dengan tema pernikahan Anda. Apakah Anda menginginkan nuansa romantis, mewah, atau sederhana, kami dapat membuatkan vas bunga yang sesuai dengan keinginan Anda. Anda juga dapat menambahkan elemen personal seperti nama pasangan pengantin atau pesan khusus pada vas bunga untuk menjadikannya lebih berkesan.</li>
 
 
@@ -206,7 +206,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Welcome Sign</strong>: Tempatkan flower vase yang indah di pintu masuk acara pernikahan untuk menyambut para tamu dengan kehangatan. Vas bunga yang elegan juga akan memberikan kesan pertama yang memukau pada tamu yang datang.</li>
 
 
@@ -272,7 +272,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Mewah dan Personalisasi</strong><br>Blumeira.id menawarkan berbagai desain flower vase yang dapat disesuaikan dengan tema grand opening. Kami menyediakan opsi untuk menambahkan logo perusahaan, nama penerima, atau pesan khusus agar hadiah Anda lebih bermakna.</li>
 
 
@@ -301,7 +301,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Hadiah Peresmian</strong>: Tunjukkan dukungan Anda dengan memberikan flower vase sebagai simbol keberuntungan dan harapan kesuksesan.</li>
 
 
@@ -367,7 +367,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif dan Personal</strong><br>Blumeira.id menawarkan berbagai pilihan desain flower vase yang dapat disesuaikan dengan keinginan Anda. Apakah Anda menginginkan sentuhan elegan, modern, atau klasik, semuanya dapat diwujudkan. Anda juga dapat menambahkan pesan khusus atau nama penerima untuk membuat hadiah lebih personal.</li>
 
 
@@ -405,7 +405,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Desain klasik dan minimalis.</strong></li>
 
 
@@ -431,7 +431,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Airlangga (UNAIR)</li>
 
 
@@ -530,7 +530,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Membuat Ulang Tahun Semakin Istimewa</strong><br>Ulang tahun adalah momen untuk merayakan hidup, dan Bloom Box Balloon memberikan sentuhan magis pada hari spesial tersebut. Begitu kotak dibuka, balon-balonnya akan terbang ke udara, diikuti dengan bunga-bunga yang memukau. Bayangkan betapa terkejutnya orang yang menerima hadiah ini, merasakan kebahagiaan yang luar biasa. Anda akan menjadi pusat perhatian di acara tersebut dengan memberikan hadiah yang tak terduga! Bloom Box Balloon di Surabaya adalah pilihan terbaik untuk menghadirkan kejutan yang menggembirakan.</li>
 
 
@@ -562,7 +562,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Ciptakan Suasana Meriah yang Mewah</strong><br>Grand opening adalah momen spesial yang penuh dengan harapan dan kegembiraan. Bloom Box Balloon dengan balon-balon yang melayang akan menciptakan suasana meriah dan penuh energi positif. Bunga segar yang ada di dalam Bloom Box menambah elemen keanggunan, memberikan kesan bahwa acara ini sangat penting dan berharga. Di Surabaya, Bloom Box Balloon memberikan atmosfer grand opening yang lebih hidup dan spektakuler.</li>
 
 
@@ -636,7 +636,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Memberikan Kejutan Tak Terlupakan</strong><br>Saat acara grand opening, Anda ingin memberikan kesan yang luar biasa kepada para tamu dan peserta. Bayangkan reaksi mereka saat menerima Bloom Box dan balon-balon indah terbang keluar, menambah kemeriahan acara. Ini bukan sekadar pemberian bunga atau hadiah biasa, tetapi <strong>sebuah pengalaman emosional</strong> yang menambah energi positif dalam acara.</li>
 
 
@@ -676,7 +676,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Grand Opening Restoran atau Kafe</strong><br>Surabaya adalah kota yang penuh dengan tempat makan dan kafe baru yang menarik. Memberikan <strong>Bloom Box Balloon</strong> kepada tamu undangan atau bahkan sebagai hadiah untuk pelanggan pertama akan menambah <strong>kesan istimewa</strong> yang tak terlupakan. Ini adalah cara yang sempurna untuk merayakan pembukaan restoran atau kafe dengan penuh gaya.</li>
 
 
@@ -750,7 +750,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Tampilan yang Memukau, Bukan Sekadar Hadiah Biasa</strong><br>Kenapa memberikan bunga biasa atau hadiah yang monoton ketika Anda bisa memberikan sesuatu yang <strong>lebih spektakuler</strong>? Bloom Box Balloon tidak hanya sekadar rangkaian bunga, tetapi juga menciptakan sensasi kejutan yang luar biasa dengan balon yang terbang keluar saat kotak dibuka. Ini adalah hadiah yang akan membuat penerima wisuda Anda benar-benar terkesan. Bayangkan ekspresi kebahagiaan mereka saat balon-balon tersebut menyambut mereka!</li>
 
 
@@ -780,7 +780,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Desain modern dan klasik</strong> yang cocok untuk segala suasana.</li>
 
 
@@ -806,7 +806,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Airlangga (UNAIR)</li>
 
 
@@ -926,7 +926,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Mawar Merah Anggun</strong><br>Mawar merah adalah simbol cinta sejati. Bouquet mawar merah ini sangat cocok untuk pasangan atau orang yang memiliki tempat spesial di hati Anda. Desainnya yang elegan dan klasik membuat setiap hadiah terasa lebih romantis.</li>
 
 
@@ -951,7 +951,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Bunga Segar dan Berkualitas:</strong> Kami hanya menggunakan bunga segar pilihan dari sumber terbaik, sehingga bouquet bunga kami tidak hanya cantik tetapi juga tahan lama.</li>
 
 
@@ -1042,7 +1042,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Fresh Flower</strong>: Kami hanya menggunakan bunga segar berkualitas premium yang memancarkan warna alami dan aroma menyegarkan. Cocok untuk memberikan sentuhan romantis di momen spesial Anda.</li>
 
 
@@ -1087,7 +1087,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Desain Personal</strong>: Kami menciptakan bouquet yang unik untuk Anda, tidak ada yang seragam.</li>
 
 
@@ -1162,7 +1162,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Fresh Flower</strong>: Kami hanya menggunakan bunga segar terbaik yang dipetik langsung dari kebun terpilih. Aroma alami dan warna-warna cerahnya akan memberikan kesan mewah dan elegan di hari spesial Anda.</li>
 
 
@@ -1258,7 +1258,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Keindahan yang Memikat</strong><br>Bouquet fresh flower kami dirancang dengan bunga-bunga terbaik yang dipilih langsung dari petani lokal maupun internasional, menjamin kualitas dan keindahan yang tak tertandingi. Sedangkan bunga artifisial kami, yang tak kalah indah, bisa bertahan lebih lama dan tetap memukau sepanjang acara, tanpa perlu khawatir akan layu.</li>
 
 
@@ -1362,9 +1362,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bouquet Fresh Flower</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Dibuat dari bunga segar berkualitas tinggi, seperti mawar, lili, dan baby breath, yang dirangkai dengan penuh cinta dan kreativitas.</li>
 
 
@@ -1380,7 +1380,7 @@
 
 
 <li><strong>Bouquet Artificial Flower</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Solusi elegan yang tahan lama, terbuat dari bahan premium dengan tampilan seperti bunga asli.</li>
 
 
@@ -1400,7 +1400,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Custom Design</strong>: Sesuaikan bouquet sesuai keinginan Anda, mulai dari warna, jenis bunga, hingga tambahan elemen dekorasi seperti boneka atau kartu ucapan.</li>
 
 
@@ -1503,7 +1503,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Elegan dan Berarti</strong>: Mencerminkan rasa bangga atas pencapaian penerima.</li>
 
 
@@ -1529,7 +1529,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Airlangga (UNAIR)</li>
 
 
@@ -1643,7 +1643,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Elegan dan Unik</strong>: Dibuat dengan berbagai pilihan bunga segar atau bunga palsu (artificial) yang dipilih dengan cermat, memberikan tampilan yang cantik dan mempesona.</li>
 
 
@@ -1820,7 +1820,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain yang Menawan</strong><br>Flower box <em>Welcome Sign</em> kami hadir dalam berbagai desain yang menarik dan elegan, dirancang untuk mencocokkan berbagai tema acara, dari pernikahan hingga acara perusahaan.</li>
 
 
@@ -2040,7 +2040,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Airlangga (UNAIR)</strong></li>
 
 
@@ -2122,7 +2122,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Tidak perlu khawatir bunga layu, flower box kami tetap terlihat segar dan cantik meski digunakan dalam waktu lama.</li>
 
 
@@ -2152,7 +2152,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Jual</strong>: Mulai dari Rp250.000 hingga Rp750.000, tergantung ukuran dan desain.</li>
 
 
@@ -2173,7 +2173,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Airlangga (UNAIR)</strong></li>
 
 

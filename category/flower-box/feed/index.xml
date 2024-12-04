@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo_blumeira_bg_biru_lusmo-100x100.webp</url>
@@ -77,7 +77,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Elegan dan Unik</strong>: Dibuat dengan berbagai pilihan bunga segar atau bunga palsu (artificial) yang dipilih dengan cermat, memberikan tampilan yang cantik dan mempesona.</li>
 
 
@@ -272,7 +272,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Desain yang Elegan dan Modern – Dengan berbagai desain yang dapat disesuaikan dengan tema ulang tahun Anda, flower box kami tampilkan dengan estetika yang memikat dan memudahkan dekorasi.</li>
 
 
@@ -448,7 +448,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain yang Menawan</strong><br>Flower box <em>Welcome Sign</em> kami hadir dalam berbagai desain yang menarik dan elegan, dirancang untuk mencocokkan berbagai tema acara, dari pernikahan hingga acara perusahaan.</li>
 
 
@@ -542,7 +542,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Menawan</strong>: Dapat disesuaikan dengan tema acara, baik menggunakan bunga segar yang alami atau bunga palsu (artificial) yang tetap terlihat menawan.</li>
 
 
@@ -860,7 +860,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Airlangga (UNAIR)</strong></li>
 
 
@@ -942,7 +942,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Bunga Artificial Premium:</strong> Tampak seperti bunga asli, tetapi lebih tahan lama dan bebas perawatan.</li>
 
 
@@ -972,7 +972,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Sewa Flower Box Wisuda:</strong> Mulai dari Rp150.000.</li>
 
 
@@ -990,7 +990,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Muhammadiyah Sidoarjo (UMSIDA)</strong></li>
 
 
@@ -1064,7 +1064,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Dibuat dari bunga artificial berkualitas tinggi yang tetap cantik sepanjang waktu, tanpa memerlukan perawatan khusus.</li>
 
 
@@ -1097,7 +1097,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Sewa</strong>: Mulai dari Rp150.000 hingga Rp500.000, tergantung desain dan ukuran.</li>
 
 
@@ -1119,7 +1119,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Muhammadiyah Sidoarjo (UMSIDA)</strong></li>
 
 
@@ -1198,7 +1198,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Tahan Lama</strong>: Tidak perlu khawatir bunga layu, flower box kami tetap terlihat segar dan cantik meski digunakan dalam waktu lama.</li>
 
 
@@ -1228,7 +1228,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Harga Jual</strong>: Mulai dari Rp250.000 hingga Rp750.000, tergantung ukuran dan desain.</li>
 
 
@@ -1249,7 +1249,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Universitas Airlangga (UNAIR)</strong></li>
 
 

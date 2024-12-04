@@ -19,7 +19,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo_blumeira_bg_biru_lusmo-100x100.webp</url>
@@ -73,7 +73,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Kreatif dan Personalisasi</strong> Blumeira.id menawarkan berbagai desain flower vase yang dapat disesuaikan dengan selera penerima dan tema acara ulang tahun. Apakah Anda menginginkan desain yang elegan, ceria, atau klasik, kami dapat membuatkan flower vase yang sempurna. Anda juga dapat menambahkan pesan spesial atau nama penerima untuk menjadikan hadiah Anda lebih personal dan berkesan.</li>
 
 
@@ -103,7 +103,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Dekorasi Pesta Ulang Tahun</strong>: Tempatkan flower vase yang cantik di meja tamu atau meja kue ulang tahun untuk menambah kesan elegan dan meriah pada acara. Vas bunga yang indah ini akan mempercantik setiap sudut acara, menciptakan atmosfer yang menyenangkan bagi tamu yang hadir.</li>
 
 
@@ -170,7 +170,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif dan Personalisasi</strong> Blumeira.id menawarkan berbagai pilihan desain flower vase yang dapat disesuaikan dengan tema pernikahan Anda. Apakah Anda menginginkan nuansa romantis, mewah, atau sederhana, kami dapat membuatkan vas bunga yang sesuai dengan keinginan Anda. Anda juga dapat menambahkan elemen personal seperti nama pasangan pengantin atau pesan khusus pada vas bunga untuk menjadikannya lebih berkesan.</li>
 
 
@@ -206,7 +206,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Welcome Sign</strong>: Tempatkan flower vase yang indah di pintu masuk acara pernikahan untuk menyambut para tamu dengan kehangatan. Vas bunga yang elegan juga akan memberikan kesan pertama yang memukau pada tamu yang datang.</li>
 
 
@@ -272,7 +272,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Mewah dan Personalisasi</strong><br>Blumeira.id menawarkan berbagai desain flower vase yang dapat disesuaikan dengan tema grand opening. Kami menyediakan opsi untuk menambahkan logo perusahaan, nama penerima, atau pesan khusus agar hadiah Anda lebih bermakna.</li>
 
 
@@ -301,7 +301,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Hadiah Peresmian</strong>: Tunjukkan dukungan Anda dengan memberikan flower vase sebagai simbol keberuntungan dan harapan kesuksesan.</li>
 
 
@@ -367,7 +367,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Eksklusif dan Personal</strong><br>Blumeira.id menawarkan berbagai pilihan desain flower vase yang dapat disesuaikan dengan keinginan Anda. Apakah Anda menginginkan sentuhan elegan, modern, atau klasik, semuanya dapat diwujudkan. Anda juga dapat menambahkan pesan khusus atau nama penerima untuk membuat hadiah lebih personal.</li>
 
 
@@ -405,7 +405,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Desain klasik dan minimalis.</strong></li>
 
 
@@ -431,7 +431,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Airlangga (UNAIR)</li>
 
 
@@ -552,7 +552,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Sentuhan Keindahan</strong>: Flower vase yang diisi dengan bunga segar atau artificial akan menjadi simbol cinta dan perhatian Anda.</li>
 
 
@@ -573,7 +573,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Ulang Tahun</strong>: Nikmati harga spesial untuk setiap pembelian flower vase selama bulan ulang tahun orang tersayang Anda.</li>
 
 
@@ -652,7 +652,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Menonjolkan Tema Dekorasi</strong>: Vas bunga akan menambahkan keselarasan pada tema dekorasi Anda, baik itu rustic, modern, klasik, atau garden party.</li>
 
 
@@ -673,7 +673,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Khusus Wedding</strong>: Dapatkan penawaran menarik untuk setiap pembelian vas bunga dalam jumlah tertentu.</li>
 
 
@@ -752,7 +752,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Meja Penyambutan</strong>: Sambut tamu Anda dengan dekorasi flower vase yang indah untuk memberikan kesan pertama yang positif.</li>
 
 
@@ -777,7 +777,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Diskon Eksklusif</strong>: Dapatkan harga spesial untuk pembelian vas bunga dalam jumlah tertentu.</li>
 
 
@@ -832,7 +832,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Desain Elegan</strong><br>Dengan beragam desain, mulai dari klasik hingga modern, <strong>flower vase</strong> kami dapat disesuaikan dengan tema acara Anda.</li>
 
 
@@ -857,7 +857,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Dekorasi Panggung</strong><br>Memberikan sentuhan elegan pada panggung utama.</li>
 
 
@@ -879,7 +879,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Vas berbahan kaca, keramik, atau rotan</strong> dengan desain klasik hingga modern.</li>
 
 
@@ -901,7 +901,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Universitas Muhammadiyah Sidoarjo (UMSIDA)</li>
 
 
